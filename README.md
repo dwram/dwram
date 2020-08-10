@@ -44,7 +44,7 @@
 
 ---
 
-<img align="left" alt="Daniel Morris Github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dwram&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="Daniel Morris Github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dwram&show_icons=true&hide_border=true&theme=vue-dark" />
 
 [website]: https://github.com/dwram/
 [blog]: https://https://medium.com/@danielim_26825
