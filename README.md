@@ -3,8 +3,8 @@
 ## I'm a developer, engineer, project manager and mentor!
 - 🔭 I’m currently working on completing a 12-week immersive Software Engineering course with Makers Academy, a highly selected bootcamp in London. [website]!
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other developers 
+- 🥅 2020 Goals: Contribute to Open Source projects and begin my content creation journey in all things software
 - ⚡ Fun fact: I love to game and play League of Legends
 
 ### Connect with me:
