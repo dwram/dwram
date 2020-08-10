@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel - aka [dwram][website] 👋
 
 ## I'm a developer, engineer, project manager and mentor!
-- 🔭 I’m currently working on completing a 12-week immersive Software Engineering course with Makers Academy, a highly selected bootcamp in London. [website]!
+- 🔭 I’m currently working on completing a 12-week immersive Software Engineering course with Makers Academy [website]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2020 Goals: Contribute to Open Source projects and begin my content creation journey in all things software
