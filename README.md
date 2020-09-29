@@ -1,11 +1,11 @@
 ### Hi there, I'm Daniel - aka [dwram][website] 👋
 
 ## I'm a developer, engineer, project manager and mentor!
-- 🔭 I’m currently working on completing a 12-week immersive Software Engineering course with Makers Academy [website]!
+- 🔭 I recently completed a 16-week immersive Software Engineering course with Makers Academy!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2020 Goals: Contribute to Open Source projects and begin my content creation journey in all things software
-- ⚡ Fun fact: I love to game and play League of Legends
+- ⚡ Fun fact: I am Diamond in League of Legends
 
 ### Connect with me:
 
