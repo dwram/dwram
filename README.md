@@ -29,7 +29,5 @@
 
 <img align="left" alt="Daniel Morris Github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dwram&show_icons=true&hide_border=true&theme=bear" />
 
-[website]: https://github.com/dwram/
-[blog]: https://https://medium.com/@danielim_26825
 [linkedin]: https://www.linkedin.com/in/daniel-m-346651192/
 
