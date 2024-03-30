@@ -1,15 +1,11 @@
-### Hi there, I'm Daniel - aka [dwram][website] 👋
+### Hi there, I'm Daniel - aka [dwram] 👋
 
-## I'm a developer, engineer, project manager and mentor!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2020 Goals: Contribute to Open Source projects and begin my content creation journey in all things software
 - ⚡ Fun fact: I am Diamond in League of Legends
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Daniel Morris | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][blog]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -30,18 +26,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="CLI" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Main course — Week 1 : A SPECtacle](https://blog.makersacademy.com/main-course-week-1-a-spectacle-9a9ed7bad3b4?source=rss-8c9079950bf5------2)
-- [Week 1](https://blog.makersacademy.com/week-1-286313bc9a08?source=rss-8c9079950bf5------2)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <img align="left" alt="Daniel Morris Github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dwram&show_icons=true&hide_border=true&theme=bear" />
 
